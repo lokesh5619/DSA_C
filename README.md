@@ -9,6 +9,9 @@ I am currently learning and practicing DSA to improve my problem-solving skills 
 
 ## Topics Covered
 - Sorting Algorithms
+  * bubbleSort
+  * insertionSort
+  * selectionSort 
 
 ## Highlights
 - Practice-based implementations
