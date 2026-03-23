@@ -11,6 +11,8 @@ I am currently learning and practicing DSA to improve my problem-solving skills 
 - Sorting Algorithms
   * bubbleSort
   * insertionSort
+  * maxheap
+  * mergeSort
   * selectionSort 
 
 ## Highlights
